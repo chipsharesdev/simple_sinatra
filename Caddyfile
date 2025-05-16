@@ -1,0 +1,3 @@
+157.230.33.234 {
+    reverse_proxy localhost:9292
+}
